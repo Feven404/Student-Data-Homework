@@ -22,4 +22,4 @@
 
   <p> The bar graph shown below depicts the average hours per week of study by major.</p>
 
-  <img src="images/Average Hours per Week of Study by Majors.png", height = 300, width = 500>
+  <img src="images/Average Hours Per Week of Study by Major.png", height = 300, width = 500>
